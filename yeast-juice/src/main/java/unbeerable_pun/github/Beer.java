@@ -1,7 +1,9 @@
-package main.java.unbeerable_pun.github;
+package unbeerable_pun.github;
+
+import java.util.Date;
 
 public abstract class Beer {
-   
+
     int id;
     int categoryId;
     BeerCategory category;

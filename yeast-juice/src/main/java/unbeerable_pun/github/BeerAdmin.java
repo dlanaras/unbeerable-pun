@@ -1,5 +1,5 @@
-package main.java.unbeerable_pun.github;
+package unbeerable_pun.github;
 
 public class BeerAdmin {
-    
+
 }
