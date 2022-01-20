@@ -1,4 +1,4 @@
-package unbeerable_pun.github;
+package main.java.unbeerable_pun.github;
 
 /**
  * @author: chads
